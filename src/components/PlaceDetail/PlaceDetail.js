@@ -17,9 +17,9 @@ const placeDetail = props => {
         <Modal onRequestClose={props.onModalClosed} visible={props.selectedPlace !== null} animationType="slide">
             <View style={styles.nodalContainer}>
                 {modalContent}
-                <View>
-                    <Button title="Delete" onPress={props.onItemDeleted} color="red"/>
-                    <Button title="Close" onPress={props.onModalClosed} />
+                <View style={styles.detailsButtonContainer}>
+                    <Button style={styles.modalButton} title="Delete" onPress={props.onItemDeleted} color="red"/>
+                    <Button style={styles.modalButton} title="Close" onPress={props.onModalClosed} />
                 </View>
             </View>
         </Modal>
@@ -38,6 +38,14 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         textAlign: "center",
         fontSize: 28
+    },
+    detailsButtonContainer: {
+        display: "flex",
+        flexDirection: "row",
+        justifyContent: "space-between"
+    },
+    modalButton: {
+        width: 150
     }
 });
 
