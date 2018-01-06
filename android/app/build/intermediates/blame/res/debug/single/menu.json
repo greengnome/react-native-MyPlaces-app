@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/rnapp/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/rnapp/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]

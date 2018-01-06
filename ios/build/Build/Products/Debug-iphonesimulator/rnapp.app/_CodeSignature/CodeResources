@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		f+27GsUvnoUzGM5Zr0Si81lGyu0=
+		VWpBcIjghEQK5mKN/i+96O4XeRs=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bcFT4Lae17X2wEmh7Gn19Dmj2XA=
+		+piK+wAk9K82RhhxFg0b4Lsda+A=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,7 +67,7 @@
 		</data>
 		<key>PlugIns/rnappTests.xctest.dSYM/Contents/Resources/DWARF/rnappTests</key>
 		<data>
-		EyZnknqhgPHVSB6BEPxiPPPxNXI=
+		nm7RX92tuOfcW7kZfP+HKi8I7Nk=
 		</data>
 		<key>PlugIns/rnappTests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +79,7 @@
 		</data>
 		<key>PlugIns/rnappTests.xctest/rnappTests</key>
 		<data>
-		SGDDqlQ0Tyla94SmpFGCfaGWeyA=
+		kWqUtE9WkcXng51lT/w3jT5EHBI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +88,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f+27GsUvnoUzGM5Zr0Si81lGyu0=
+			VWpBcIjghEQK5mKN/i+96O4XeRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZDMKWTc6VPw+pqDs/kpr230d1pOXlWvs0h0bvhO6A5I=
+			Wt4qk/12OWRxDf3bqbcdQXMOrKiAUU0Hlp6tpWyZFNM=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -192,6 +196,17 @@
 			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
 			</data>
 		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
 		<key>PlugIns/rnappTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -207,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EyZnknqhgPHVSB6BEPxiPPPxNXI=
+			nm7RX92tuOfcW7kZfP+HKi8I7Nk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eRJhl2VTCrpQ1oN5G0wKtKn5P/Us/aY8miM6Gxoa2Ls=
+			kPBD2dWnmOBE1eoyQwtph10CHfn7giasNDrQsu/Wquk=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/Info.plist</key>
@@ -240,11 +255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SGDDqlQ0Tyla94SmpFGCfaGWeyA=
+			kWqUtE9WkcXng51lT/w3jT5EHBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			LmM0EsF6resV0aAxgLwrTYo2RmKdOWvoWiU70F2tZ3M=
+			/ZwUKfmhJAiruqIYMbfWIHEwGoB1tHXeYXBroFHONJo=
 			</data>
 		</dict>
 	</dict>

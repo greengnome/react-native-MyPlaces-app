@@ -1,81 +1,52 @@
-import React, { Component } from "react";
-import { StyleSheet, View } from "react-native";
+import { Navigation } from 'react-native-navigation';
+import { Provider } from 'react-redux';
 
-import PlaceInput from "./src/components/PlaceInput/PlaceInput";
-import PlaceList from "./src/components/PlaceList/PlaceList";
-import placeImage from "./src/assets/place-1.jpg";
-import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail.js";
+import AuthScreen from './src/screens/Auth/Auth';
+import SharePlaceScreen from './src/screens/SharePlace/SharePlace';
+import FindPlaceScreen from './src/screens/FindPlace/FindPlace';
+import PlaceDetailsScreen from './src/screens/PlaceDetail/PlaceDetail';
+import SideDrawer from './src/screens/SideDrawer/SideDrawer';
+import configureStore from './src/store/store_config';
 
-export default class App extends Component {
-  state = {
-    places: [],
-    selectedPlace: null
-  };
+const store = configureStore()
 
-  placeAddedHandler = placeName => {
-    this.setState(prevState => {
-      return {
-        places: prevState.places.concat({
-          key: Math.random(),
-          name: placeName,
-          image: {
-            uri: "https://static.boredpanda.com/blog/wp-content/uuuploads/unbelievable-places/unbelievable-places-3-1.jpg"
-          }
-        })
-      };
-    });
-  };
+// Register screens
+Navigation.registerComponent(
+  "places-app.AuthScreen",
+  () => AuthScreen, 
+        store, 
+        Provider
+);
+Navigation.registerComponent(
+  "places-app.SharePlaceScreen",
+  () => SharePlaceScreen, 
+        store, 
+        Provider
+);
+Navigation.registerComponent(
+  "places-app.FindPlaceScreen",
+  () => FindPlaceScreen, 
+        store, 
+        Provider
+);
+Navigation.registerComponent(
+  "places-app.PlaceDetailsScreen",
+  () => PlaceDetailsScreen, 
+        store, 
+        Provider
+);
 
-  placeSelectedHandler = key => {
-    this.setState(prevState => {
-      return {
-        selectedPlace: prevState.places.find(place => {
-          return place.key === key;
-        })
-      };
-    });
-  };
+Navigation.registerComponent(
+  "places-app.SideDrawerScreen",
+  () => SideDrawer,
+        store,
+        Provider
+)
 
-  placeDeletedHandler = () => {
-    this.setState(prevState => {
-      return {
-        places: prevState.places.filter(place => {
-          return place.key !== prevState.selectedPlace.key;
-        }),
-        selectedPlace: null
-      };
-    });
-  };
-
-  modalClosedHandler = () => {
-    this.setState({
-      selectedPlace: null
-    })
-  }
-
-  render() {
-    return (
-      <View style={styles.container}>
-        <PlaceDetail 
-          selectedPlace={this.state.selectedPlace} 
-          onItemDeleted={this.placeDeletedHandler} 
-          onModalClosed={this.modalClosedHandler}/>
-        <PlaceInput onPlaceAdded={this.placeAddedHandler} />
-        <PlaceList
-          places={this.state.places}
-          onItemSelected={this.placeSelectedHandler}
-        />
-      </View>
-    );
-  }
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 26,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "flex-start"
+// Start app
+Navigation.startSingleScreenApp({
+  screen: {
+    screen: "places-app.AuthScreen",
+    title: "Login"
   }
 });
