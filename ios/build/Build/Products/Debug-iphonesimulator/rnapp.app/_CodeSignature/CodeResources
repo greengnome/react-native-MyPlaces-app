@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		VWpBcIjghEQK5mKN/i+96O4XeRs=
+		crwZ+w0jH12vNfmxE2ZUurxDRaQ=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Lq1Hg8/mRTOnYQSgNdXb3PBJkbU=
+		m0OzNKQIQPowm0N3Lg9ZROiscT8=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -71,15 +71,15 @@
 		</data>
 		<key>PlugIns/rnappTests.xctest/Info.plist</key>
 		<data>
-		9iH9pLTz3R4L0O5op8pM3JQkAX0=
+		3FzVGX1wUERbyjGZygRzVHCoFy4=
 		</data>
 		<key>PlugIns/rnappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		QesZzKIbf9OjgDqC8D+ohTkhTlU=
+		jiS1QQfvBVBpwPQQxJv2bMpZQcA=
 		</data>
 		<key>PlugIns/rnappTests.xctest/rnappTests</key>
 		<data>
-		KluM6JqZPj2j1A4fEcK3ygqfgnQ=
+		d5dOQLULVHCxRwcThCAcQPKNphw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,11 +88,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VWpBcIjghEQK5mKN/i+96O4XeRs=
+			crwZ+w0jH12vNfmxE2ZUurxDRaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wt4qk/12OWRxDf3bqbcdQXMOrKiAUU0Hlp6tpWyZFNM=
+			mUgCZY9WIDC63w/MU9UMM0OR2/byg5gc/R1o1TqVBHo=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -233,33 +233,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9iH9pLTz3R4L0O5op8pM3JQkAX0=
+			3FzVGX1wUERbyjGZygRzVHCoFy4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nd0Wqit5kH3ZihCLaKEq/jK9VWTxR3sDLHpWPtuPgqo=
+			fcEt49WD5mo8CjhAU1Bs8j70YrDtVyEXj7q6WW0AjPQ=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QesZzKIbf9OjgDqC8D+ohTkhTlU=
+			jiS1QQfvBVBpwPQQxJv2bMpZQcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhFPj82GPYd2liYH9pYL8QOS6QeIMheo6T+QHH474gQ=
+			roDO4eOilLkdMgo98GZlpbyc0NHWrS88eb08OEYJVU8=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/rnappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KluM6JqZPj2j1A4fEcK3ygqfgnQ=
+			d5dOQLULVHCxRwcThCAcQPKNphw=
 			</data>
 			<key>hash2</key>
 			<data>
-			KurF33mC3MC61sXJCphjBkpNFxOAbqL+3rRWw918ho4=
+			tD12onEpVlacTUevPwOP3/bPl+d5rm24CRMzR9zmq20=
 			</data>
 		</dict>
 	</dict>

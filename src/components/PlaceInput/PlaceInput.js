@@ -5,10 +5,14 @@ import DefaultInput from '../UI/DefaultAppInput/DefaultAppInput';
 
 const placeInput = props => {
   return (
-    <DefaultInput placeholder='Place name'
-      value={props.placeName}
-      onChangeText={props.onChangeText} />
+    <DefaultInput
+        placeholder='Place name'
+        value={props.placeData.value}
+        valid={props.placeData.valid}
+        onChangeText={props.onChangeText}
+        touched={props.placeData.touched}
+    />
   );
-}
+};
 
 export default placeInput;
