@@ -14,8 +14,9 @@ const reducer = (state = initialState, action) => {
                     key: Math.random(),
                     name: action.placeName,
                     image: {
-                        uri: "https://static.boredpanda.com/blog/wp-content/uuuploads/unbelievable-places/unbelievable-places-3-1.jpg"
-                    }
+                        uri: action.image.uri
+                    },
+                    location: action.location
                 })
             };
         case DELETE_PLACE:

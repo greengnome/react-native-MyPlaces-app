@@ -45,6 +45,7 @@ class FindPlaceScreen extends Component {
                 placesLoaded: true
             });
             this.placesLoadedHandler();
+            console.log(this.props.selectedPlace);
         });
     }
 

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/kirillgladkov/Documents/Projects/rn-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",

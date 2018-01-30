@@ -32,4 +32,5 @@ dependencies: \
   /Users/kirillgladkov/Documents/Projects/rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
   /Users/kirillgladkov/Documents/Projects/rn-app/node_modules/react-native-navigation/ios/RCCNotification.h \
   /Users/kirillgladkov/Documents/Projects/rn-app/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
-  /Users/kirillgladkov/Documents/Projects/rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h
+  /Users/kirillgladkov/Documents/Projects/rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/kirillgladkov/Documents/Projects/rn-app/node_modules/react-native-navigation/ios/RNNSwizzles.h

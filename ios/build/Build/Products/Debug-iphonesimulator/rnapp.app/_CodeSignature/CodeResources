@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		crwZ+w0jH12vNfmxE2ZUurxDRaQ=
+		GxotjdXGmE8GY+VbW1Wlo0u1nLs=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m0OzNKQIQPowm0N3Lg9ZROiscT8=
+		nMzf2dkD83PRMHXrYwe+4E++lnc=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -67,19 +67,19 @@
 		</data>
 		<key>PlugIns/rnappTests.xctest.dSYM/Contents/Resources/DWARF/rnappTests</key>
 		<data>
-		nm7RX92tuOfcW7kZfP+HKi8I7Nk=
+		yJD01FvJ2/jTivGZZYKdus3qMJE=
 		</data>
 		<key>PlugIns/rnappTests.xctest/Info.plist</key>
 		<data>
-		3FzVGX1wUERbyjGZygRzVHCoFy4=
+		VScQuTQqfFkFAEpPf7zVx10yu94=
 		</data>
 		<key>PlugIns/rnappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		jiS1QQfvBVBpwPQQxJv2bMpZQcA=
+		9iGZblmDxKyK8ib4yHqx1bfoBSA=
 		</data>
 		<key>PlugIns/rnappTests.xctest/rnappTests</key>
 		<data>
-		d5dOQLULVHCxRwcThCAcQPKNphw=
+		/h3karMFrm7s4Ly051Q1jhHIsFw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,11 +88,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			crwZ+w0jH12vNfmxE2ZUurxDRaQ=
+			GxotjdXGmE8GY+VbW1Wlo0u1nLs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mUgCZY9WIDC63w/MU9UMM0OR2/byg5gc/R1o1TqVBHo=
+			Wn8B8ar8thJAE25ipDMg5fN+WoNMglURqjxfKLHzXvI=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -222,44 +222,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nm7RX92tuOfcW7kZfP+HKi8I7Nk=
+			yJD01FvJ2/jTivGZZYKdus3qMJE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kPBD2dWnmOBE1eoyQwtph10CHfn7giasNDrQsu/Wquk=
+			E4dsT7mocYLszGhwv+1ieZLqGWVpD7QZYEa0DAOnWeY=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3FzVGX1wUERbyjGZygRzVHCoFy4=
+			VScQuTQqfFkFAEpPf7zVx10yu94=
 			</data>
 			<key>hash2</key>
 			<data>
-			fcEt49WD5mo8CjhAU1Bs8j70YrDtVyEXj7q6WW0AjPQ=
+			X94Gba+bg54nnA3lXAqaQ2GREN9j3fCG5TDozrGYXfA=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jiS1QQfvBVBpwPQQxJv2bMpZQcA=
+			9iGZblmDxKyK8ib4yHqx1bfoBSA=
 			</data>
 			<key>hash2</key>
 			<data>
-			roDO4eOilLkdMgo98GZlpbyc0NHWrS88eb08OEYJVU8=
+			dMCWpm4RYsWjayUbDnyBQJ+PtKR2GbYvfQJmI978Bm4=
 			</data>
 		</dict>
 		<key>PlugIns/rnappTests.xctest/rnappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d5dOQLULVHCxRwcThCAcQPKNphw=
+			/h3karMFrm7s4Ly051Q1jhHIsFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tD12onEpVlacTUevPwOP3/bPl+d5rm24CRMzR9zmq20=
+			/LvOjXcjkiyElM8MF+F7/D8v/TK5GaF+/WIV+EeN+mA=
 			</data>
 		</dict>
 	</dict>
