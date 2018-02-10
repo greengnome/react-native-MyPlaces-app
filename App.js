@@ -44,7 +44,7 @@ Navigation.registerComponent(
 )
 
 // Start app
-Navigation.startSingleScreenApp({
+export default () => Navigation.startSingleScreenApp({
   screen: {
     screen: "places-app.AuthScreen",
     title: "Login"
